@@ -50,4 +50,3 @@ f'\n\rcontent-type:text/html\r\n\r\n'\
     </div>
 </body>
 </html>"""
-print(default_fobidden404())
